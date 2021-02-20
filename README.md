@@ -18,6 +18,5 @@ https://studio.youtube.com/video/VivUd4jHJPM/edit
 
 # Resultado obtido ao final do arquivo
 ![alt text](https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112428.png)
+![alt text](https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112440.png)
 
-- https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112428.png
-- https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112440.png
