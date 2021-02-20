@@ -141,8 +141,8 @@ Uma relação determínistica, por exemplo,
 mantendo velocidade constante $v$ ao longo de $\Delta t$ segundos. 
 
 Um exemplo de variáveis relacionadas de maneira não determinística é se 
-quisessemos saber $y = \text{tamanho do vocabulário de uma criança}$ 
-sendo $x = \text{idade dessa criança}$. Não é algo exato.
+quisessemos saber o tamanho do vocabulário de uma criança (y)
+sabendo idade dessa criança (x). Não é algo exato.
 
 Talvez seja mais fácil olhar um gráfico disso!
 
@@ -187,9 +187,7 @@ Através desse método é possível traçar uma reta  que tem o melhor ajuste po
 Na prática, nos vamos utilizar um conjunto de bibliotecas de machine learning
 que irá realizar todos os cálculos estatísticos para nós sem grandes esforços
 '''
-from sklearn.datasets import load_diabetes
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
  
 # criar modelo linear e otimizar
 lm_model = LinearRegression()
