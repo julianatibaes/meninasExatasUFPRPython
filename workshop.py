@@ -211,7 +211,10 @@ plt.show()
 
 
 '''
-Neste exemplo, nós utilizamos os dados disponibilizados pelo sklearn (load_diabetes),
-porém podemos utilizar nossos próprios dados, e eles podem ser provenientes
-de tabelas Excel ou CSV, por exemplo =]
+Neste exemplo, nós utilizamos os dados gerados aleatóriamente,
+porém podemos utilizar dados gerados por outras fontes, 
+como um conjunto de dados de pacientes em uma clínica, em uma escola, em uma estação meteorológica, etc.
+E esses dados podem estar armazenados em tabelas Excel ou CSV, por exemplo =]
+
+Não se esqueça de que ao utilizar dados de pessoas, é necessário o concentimento delas e cuidar para que nenhum dado pessoal seja exposto de forma indevida.
 '''
