@@ -15,3 +15,7 @@ https://studio.youtube.com/video/VivUd4jHJPM/edit
 # Resumo
 - Alguns comandos úteis para a resolução de problemas matemáticos
 - Criação de gráficos utilizando bibliotecas do sklearn para a resolução de regressão linear
+
+# Resultado obtido ao final do arquivo
+- https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112428.png
+- https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112440.png
