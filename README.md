@@ -20,6 +20,6 @@ https://studio.youtube.com/video/VivUd4jHJPM/edit
 - Exemplo de conjunto determinístico e não determinístico
 ![alt text](https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112428.png)
 
-- Exemplo da aplicação do Método dos Mínimos Quadrados para fazera reta em um grupo não determinístico
+- Exemplo da aplicação do Método dos Mínimos Quadrados para fazer a reta em um grupo não determinístico
 ![alt text](https://github.com/julianatibaes/meninasExatasUFPRPython/blob/main/Figure%202021-02-20%20112440.png)
 
